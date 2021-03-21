@@ -1,0 +1,6 @@
+.Stars{
+    background: url(stars.png) no-repeat;
+    width: 110px;
+    height: 20px;
+    display: inline-block;
+}

@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with the Lowest Rated Parking Lots Application
+
+Create a .env file in the src directory and add the following key/value pair
+
+### YELP_KEY="--insert your yelp api key--"
+
+Note: you can get started with the yelp api [here](https://www.yelp.com/developers/documentation/v3/get_started)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
